@@ -1,0 +1,143 @@
+@media all and(max-width: 1200px){}
+
+
+@media all and(max-width: 1199px) {
+
+    .ssd {
+        width: 100%;
+    }
+    .buton-div {
+        width: 290px;
+    }
+}
+@media all and(max-width: 1095px){
+    .buton-div {
+        width: 290px;
+
+    }
+}
+
+@media all and(max-width: 1111px){
+    .m-auto.pb-3.lead.lh-lg.w-75 {
+        text-align: center;
+    }
+    .buton-div {
+        width: 270px;
+
+    }
+}
+
+@media all and(max-width: 1086px){
+    .buton-div {
+        width: 270px;
+    }
+
+    .heaa {
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .pop {
+
+        line-height: 65px;
+        font-size: 24px;
+    }
+    .m-auto.pb-3.lead.lh-lg.w-75 {
+        font-size: 15px;
+        text-align: center;
+    }
+    .ssd {
+        width: 82px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+}
+
+
+
+
+@media all and(max-width: 991px){
+    .riting-dir {
+        margin-top: 0px;
+    }
+}
+
+@media all and (max-width: 864px){
+    .six {
+        font-size: 14px;
+    }
+}
+
+@media all and (max-width:768px){
+    .six{
+        font-size: 12px;
+    }
+}
+
+@media all and (max-width:770px){
+    .riting-dir {
+        margin-top: -12px;
+    }
+    .you {
+        width: 100%;
+    }
+    .riting-div {
+        margin-top: 119px;
+    }
+}
+
+@media all and (max-width:767px){
+    .buton-div {
+        margin: auto;
+        margin-top: 25px;
+    }
+    .riting-div {
+        width: 260px;
+        margin-left: -58px;
+        margin-top: 55px;
+        text-align: center;
+    }
+    .you {
+        margin-left: 90px;
+    }
+    .col-sm-5 {
+        flex: 0 0 auto;
+        width: 86.667%;
+        margin-top: 47px;
+        text-align: center;
+    }
+    .ssd {
+        margin-left: 130px;
+    }
+
+}
+@media all and (max-width:575px){
+    .riting-div {
+        margin-left: 130px;
+
+    }
+    .you {
+        margin-left: 90px;
+        width: 300px;
+    }
+    .ssd {
+        margin-left: 0px;
+    }
+}
+
+@media all and (max-width:407px){
+    .riting-div {
+        margin-left: 70px;
+ 
+    }
+    .you {
+        margin-left: 60px;
+    }
+    .container-fluid {
+        margin-left: 303px;
+        margin-top: -56px;
+    }
+}
